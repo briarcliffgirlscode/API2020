@@ -1,0 +1,60 @@
+
+
+body{
+  background-color: #42b3f5;
+  text-align: center;
+}
+
+
+p{
+  color: black;
+  font-style: normal;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  color: #3034b8;
+}
+
+
+ol{
+  text-align: left;
+  color: black;
+}
+
+ol a {
+  text-decoration: underline;
+  color: black;
+}
+
+#maincontent{
+  margin: auto;
+  padding-top: 5px;
+  width: 80%;
+  text-align: center;
+  color: #3034b8;
+  height: 500px;
+  
+}
+
+#newspaperContent{
+  float:left;
+  width:50%;
+  
+  
+}
+
+#giphyContent{
+  float:right;
+  width:50%;
+
+}
+
+
+.classNameHere{
+  color: white;
+  font-style:italic;
+}
+
+
